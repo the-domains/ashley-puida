@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ashley Puida]]></title>
+        <description><![CDATA[Ashley Puida]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 21:10:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IFBB PRO]]></title>
+            <description><![CDATA[<article><h1>IFBB PRO</h1><p>It's hard to believe it's been two weeks already since I earned my #IFBB #pro status. A lot has changed in those two weeks. I think there's a lot more of it around the corner too. @teamnjff coach Norm and I start training for my pro debut @spectrumfitnessproductions #sacpro2015 on Monday. I'm nervous about this show you guys but I'm going to work hard and bring the best package I've had yet to the stage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2544ae09eea31541321de967969c8342e14255d.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/53GZxym4PR/?taken-by=ashleypuida</link>
+            <guid isPermaLink="false">970f9251-753f-4fe4-a96d-576c1da0386f</guid>
+            <pubDate>Fri, 04 Mar 2016 21:09:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
